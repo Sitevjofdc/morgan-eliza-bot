@@ -62,7 +62,7 @@
     "format:check": "bunx @biomejs/biome format ."
   },
   "dependencies": {
-    "@electric-sql/pglite": "^0.4.0",
+    "@electric-sql/pglite": "^0.5.7",
     "@napi-rs/keyring": "^1.1.6"
   },
   "devDependencies": {
