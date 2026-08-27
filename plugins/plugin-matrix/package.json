@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "fake-indexeddb": "^6.2.5",
-    "matrix-js-sdk": "^41.4.0"
+    "matrix-js-sdk": "^42.2.0"
   },
   "peerDependencies": {
     "@elizaos/core": "workspace:*"
