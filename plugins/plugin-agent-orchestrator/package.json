@@ -84,7 +84,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.8",
-    "@electric-sql/pglite": "^0.4.0",
+    "@electric-sql/pglite": "^0.5.7",
     "@elizaos/core": "workspace:*",
     "@elizaos/logger": "workspace:*",
     "@elizaos/shared": "workspace:*",

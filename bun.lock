@@ -5,7 +5,7 @@
     "": {
       "name": "eliza",
       "dependencies": {
-        "@electric-sql/pglite": "^0.4.5",
+        "@electric-sql/pglite": "^0.5.7",
         "@electric-sql/pglite-socket": "0.1.6",
         "@elizaos/plugin-agent-orchestrator": "workspace:*",
         "@elizaos/plugin-anthropic": "workspace:*",
@@ -104,7 +104,7 @@
         "@ai-sdk/google": "^3.0.75",
         "@ai-sdk/openai": "^3.0.58",
         "@clack/prompts": "^1.0.0",
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@elizaos/auth": "workspace:*",
         "@elizaos/core": "workspace:*",
         "@elizaos/plugin-agent-orchestrator": "workspace:*",
@@ -717,7 +717,7 @@
         "@aws-sdk/client-s3": "^3.1039.0",
         "@brighter/storage-adapter-s3": "^1.6.3",
         "@cloudflare/playwright": "1.3.6",
-        "@electric-sql/pglite": "^0.4.5",
+        "@electric-sql/pglite": "^0.5.7",
         "@electric-sql/pglite-socket": "0.1.6",
         "@elevenlabs/elevenlabs-js": "^2.45.0",
         "@elizaos/cloud-sdk": "workspace:*",
@@ -1268,7 +1268,7 @@
       "name": "@elizaos/vault",
       "version": "2.0.3-beta.7",
       "dependencies": {
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@napi-rs/keyring": "^1.1.6",
       },
       "devDependencies": {
@@ -1294,7 +1294,7 @@
       },
       "devDependencies": {
         "@biomejs/biome": "2.5.8",
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@elizaos/core": "workspace:*",
         "@elizaos/logger": "workspace:*",
         "@elizaos/shared": "workspace:*",
@@ -1476,7 +1476,7 @@
         "zod": "^4.4.3",
       },
       "devDependencies": {
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@typescript/native": "npm:typescript@^7.0.2",
         "bun-types": "1.3.14",
         "react-dom": "*",
@@ -2191,7 +2191,7 @@
         "zod": "^4.4.3",
       },
       "devDependencies": {
-        "@electric-sql/pglite": "^0.4.5",
+        "@electric-sql/pglite": "^0.5.7",
         "@elizaos/cloud-test-mocks": "workspace:*",
         "@elizaos/plugin-sql": "workspace:*",
         "@elizaos/scenario-runner": "workspace:*",
@@ -2914,7 +2914,7 @@
         "zod": "^4.4.3",
       },
       "devDependencies": {
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@types/jsdom": "^30.0.0",
         "@typescript/native": "npm:typescript@^7.0.2",
         "bun-types": "1.3.14",
@@ -3067,7 +3067,7 @@
       },
       "devDependencies": {
         "@biomejs/biome": "2.5.8",
-        "@electric-sql/pglite": "^0.4.5",
+        "@electric-sql/pglite": "^0.5.7",
         "@types/node": "^25.0.6",
         "@types/react": "^19.0.0",
         "@types/react-dom": "^19.0.0",
@@ -3127,7 +3127,7 @@
       "dependencies": {
         "@electric-sql/client": "1.0.14",
         "@electric-sql/experimental": "1.0.14",
-        "@electric-sql/pglite": "^0.4.0",
+        "@electric-sql/pglite": "^0.5.7",
         "@electric-sql/pglite-sync": "0.5.6",
         "@neondatabase/serverless": "^1.1.0",
         "@noble/hashes": "2.2.0",
@@ -3433,7 +3433,7 @@
       },
       "devDependencies": {
         "@biomejs/biome": "2.5.8",
-        "@electric-sql/pglite": "^0.2.17",
+        "@electric-sql/pglite": "^0.5.7",
         "@elizaos/core": "workspace:*",
         "@elizaos/shared": "workspace:*",
         "@types/bun": "^1.3.8",
@@ -4038,7 +4038,7 @@
 
     "@electric-sql/experimental": ["@electric-sql/experimental@1.0.14", "", { "optionalDependencies": { "@rollup/rollup-darwin-arm64": "^4.18.1" }, "peerDependencies": { "@electric-sql/client": "1.0.14" } }, "sha512-Wpv9UC7r4JYnQO4GbtQve7SVIX/VcBwAP12Xx11ObK2TBI+NJHtDRimUEKKQorq9Kr6yTAJ3BYOKCINxFsbDIg=="],
 
-    "@electric-sql/pglite": ["@electric-sql/pglite@0.4.6", "", {}, "sha512-qmlmfN8UyKCee35qkV0r/MBp+Znl8FjBz7OpoglNvww3GJpw0/DLP0o1ZymvLNmcD5DTLOQdzKPtF8Hd3mdl1w=="],
+    "@electric-sql/pglite": ["@electric-sql/pglite@0.5.7", "", {}, "sha512-6WBks0NFO6YUhGP03mCNkbJuVFWwrZPrzZ/vsnAPnsCD28pybdZ+yoTrlLlWFoZst3kdaju5pxIslV/jrr36nQ=="],
 
     "@electric-sql/pglite-age": ["@electric-sql/pglite-age@0.0.6", "", { "peerDependencies": { "@electric-sql/pglite": "0.5.5" } }, "sha512-cnj+KxJUgx6WdwFgIbu2wQSu5NKNOf1TNfLAwVTHZZGkTTyA8FW8FrFZ06jKUkKoW7Fad8X0O4FPb/I+u5n5Rw=="],
 
@@ -10321,8 +10321,6 @@
     "@elizaos/plugin-wallet/@solana/spl-token": ["@solana/spl-token@0.4.14", "", { "dependencies": { "@solana/buffer-layout": "^4.0.0", "@solana/buffer-layout-utils": "^0.2.0", "@solana/spl-token-group": "^0.0.7", "@solana/spl-token-metadata": "^0.1.6", "buffer": "^6.0.3" }, "peerDependencies": { "@solana/web3.js": "^1.95.5" } }, "sha512-u09zr96UBpX4U685MnvQsNzlvw9TiY005hk1vJmJr7gMJldoPG1eYU5/wNEyOA5lkMLiR/gOi9SFD4MefOYEsA=="],
 
     "@elizaos/plugin-wallet/uuid": ["uuid@11.1.1", "", { "bin": { "uuid": "dist/esm/bin/uuid" } }, "sha512-vIYxrBCC/N/K+Js3qSN88go7kIfNPssr/hHCesKCQNAjmgvYS2oqr69kIufEG+O4+PfezOH4EbIeHCfFov8ZgQ=="],
-
-    "@elizaos/plugin-workflow/@electric-sql/pglite": ["@electric-sql/pglite@0.2.17", "", {}, "sha512-qEpKRT2oUaWDH6tjRxLHjdzMqRUGYDnGZlKrnL4dJ77JVMcP2Hpo3NYnOSPKdZdeec57B6QPprCUFg0picx5Pw=="],
 
     "@elizaos/plugin-zai/ai": ["ai@7.0.66", "", { "dependencies": { "@ai-sdk/gateway": "4.0.52", "@ai-sdk/provider": "4.0.7", "@ai-sdk/provider-utils": "5.0.27" }, "peerDependencies": { "zod": "^3.25.76 || ^4.1.8" } }, "sha512-wBUyoCYF3GVr+62nelBgR8YbpTSsMZrzFyOOjiwijylNSM2TFCW35C+Pml2vc59/WLMpyhS/LWZ55M+B9DAcSg=="],
 

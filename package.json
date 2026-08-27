@@ -477,7 +477,7 @@
     "packages/app-core/scripts"
   ],
   "dependencies": {
-    "@electric-sql/pglite": "^0.4.5",
+    "@electric-sql/pglite": "^0.5.7",
     "@electric-sql/pglite-socket": "0.1.6",
     "@elizaos/plugin-agent-orchestrator": "workspace:*",
     "@elizaos/plugin-anthropic": "workspace:*",

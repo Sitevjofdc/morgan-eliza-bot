@@ -72,7 +72,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@electric-sql/pglite": "^0.4.5",
+    "@electric-sql/pglite": "^0.5.7",
     "@elizaos/cloud-test-mocks": "workspace:*",
     "@elizaos/plugin-sql": "workspace:*",
     "@elizaos/scenario-runner": "workspace:*",
